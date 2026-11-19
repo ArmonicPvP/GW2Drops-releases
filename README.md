@@ -1,5 +1,8 @@
 # GW2Drops collector downloads
 
+[![Latest release](https://img.shields.io/github/v/release/ArmonicPvP/gw2drops?include_prereleases&sort=semver&label=release)](https://github.com/ArmonicPvP/gw2drops/releases/latest)
+[![Discord](https://img.shields.io/discord/1571860503561506916?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/ku3jxx48Vh)
+
 GW2Drops records what drops from what in Guild Wars 2 and shows it on
 [gw2drops.com](https://gw2drops.com). This repository only hosts the collector
 download; the source code is private.
