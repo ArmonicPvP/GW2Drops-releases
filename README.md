@@ -9,7 +9,7 @@ download; the source code is private.
 
 ## Install
 
-gw2drops runs as an [arcdps](https://www.deltaconnected.com/arcdps/) extension or Nexus add-on.
+gw2drops runs as an [arcdps](https://www.deltaconnected.com/arcdps/) extension or [Nexus](https://raidcore.gg/gw2/nexus) add-on.
 
 1. Download `gw2drops_collector.dll` from the
    [latest release](https://github.com/ArmonicPvP/gw2drops/releases/latest).
