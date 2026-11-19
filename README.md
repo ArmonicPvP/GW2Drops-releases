@@ -37,7 +37,6 @@ You must be 18 or older to create a gw2drops.com account.
 
 [Privacy policy](https://gw2drops.com/privacy) | [Terms](<(https://gw2drops.com/tos)>)
 
-gw2drops is an unofficial fan project, not affiliated with or endorsed by ArenaNet
-or NCSOFT. Use third-party addons at your own risk.
+###### gw2drops is an unofficial fan project, not affiliated with or endorsed by ArenaNet or NCSOFT. Use third-party addons at your own risk.
 
-© ArenaNet LLC. All rights reserved. NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, GW2, Heart of Thorns, Path of Fire, End of Dragons, Secrets of the Obscure, Janthir Wilds, Visions of Eternity, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners.
+###### © ArenaNet LLC. All rights reserved. NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, GW2, Heart of Thorns, Path of Fire, End of Dragons, Secrets of the Obscure, Janthir Wilds, Visions of Eternity, and all associated logos, designs, and composite marks are trademarks or registered trademarks of NCSOFT Corporation. All other trademarks are the property of their respective owners.
