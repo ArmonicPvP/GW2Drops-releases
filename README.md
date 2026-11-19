@@ -35,7 +35,7 @@ You must be 18 or older to create a gw2drops.com account.
 
 ## Legal
 
-[Privacy policy](https://gw2drops.com/privacy) | [Terms](<(https://gw2drops.com/tos)>)
+[Privacy policy](https://gw2drops.com/privacy) | [Terms]((https://gw2drops.com/tos))
 
 ###### gw2drops is an unofficial fan project, not affiliated with or endorsed by ArenaNet or NCSOFT. Use third-party addons at your own risk.
 
